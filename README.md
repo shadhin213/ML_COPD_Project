@@ -41,7 +41,7 @@ Project Workflow
 
 3. Model Development:
    - Split data
-   - Train models: Logistic Regression, Random Forest, XGBoost
+   - Train models: Logistic Regression, Random Forest, XGBoost, SVM
    - Evaluate using Accuracy, Precision, Recall, F1-Score
 
 4. Optimization and Visualization:
